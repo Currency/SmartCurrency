@@ -5,7 +5,7 @@ We want to design a new smart currency system that be applied to all fields and 
 
 
 
-The Priciple of SmartCurrency
+The Principle of SmartCurrency
 -----------------------------
 
 The system of smart currency can be to maintain a relatively stable using quatities that currency exchange between one and others.
